@@ -22,14 +22,6 @@
 
 以下是我目前主要维护和参与的仓库：
 
-| 仓库名 | 描述 | 技术栈 |
-| :----- | :--- | :----- |
-| [TsuiDison](https://github.com/TsuiDison/TsuiDison) | 此库用于练习github流动 | *示例：Markdown, Github Flow* |
-| [仓库1](https://github.com/TsuiDison/仓库1) | 仓库1的简要描述 | 技术栈1 |
-| [仓库2](https://github.com/TsuiDison/仓库2) | 仓库2的简要描述 | 技术栈2 |
-| [仓库3](https://github.com/TsuiDison/仓库3) | 仓库3的简要描述 | 技术栈3 |
-
-> *请将“仓库1/2/3”等替换为你实际的仓库名和描述，可以登录 GitHub 查看所有仓库，补充完整。*
 
 ---
 
@@ -69,8 +61,4 @@
 
 ---
 
-**Tips:**
-- 如需自动同步仓库列表或动态信息，可使用 [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) 或相关 GitHub Actions。
-- 上述“技能栈”“项目列表”等内容请根据你的实际情况补全。
 
-如果需要，我可以帮你分析所有仓库并给出详细的项目描述。是否需要自动读取并生成详细列表？
