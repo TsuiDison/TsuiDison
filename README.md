@@ -1,62 +1,78 @@
+<!-- 
+##################################################################################
+###  Hi there! 👋 This is a template for your GitHub profile README.md.         ###
+###  Thanks for using it! To customize, find all instances of "[YOUR_...]"     ###
+###  and replace them with your own information. Have fun!                     ###
+##################################################################################
+-->
 
+<!-- 1. 顶部波浪欢迎动画 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</p>
 
-# Hi there, I'm TsuiDison! 👋
-
-欢迎来到我的 GitHub 主页！  
-这里是我学习、实践和分享编程知识的空间。  
-此库用于练习github流动。
-
----
-
-## 🧑‍💻 关于我
-
-- 🌱 正在学习：持续学习前后端开发、自动化和算法等
-- 💡 热衷于：开源项目、技术分享、实践新技术
-- 📫 联系方式：  
-  - 邮箱：你的邮箱（可选）  
-  - 博客/主页：你的个人站点（可选）
-
----
-
-## 🚩 我的仓库
-
-以下是我目前主要维护和参与的仓库：
-
+<!-- 2. 个人简介 -->
+<h1 align="center">
+  Hi there, I'm TsuiDison 👋
+</h1>
+<p align="center">
+  <em>A passionate student from SYSU📍</em><br>
+</p>
 
 ---
 
-## 🛠️ 技能栈
+### 🚀 My Tech Stack
 
-- **编程语言**：Python, JavaScript, Java, C/C++ 等
-- **前端开发**：HTML, CSS, React/Vue 等
-- **后端开发**：Node.js, Django, Spring Boot 等
-- **数据库**：MySQL, MongoDB 等
-- **工具与平台**：Git & GitHub, VSCode, Linux
-
----
-
-## 📊 GitHub 统计
-
-![TsuiDison's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsuiDison&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsuiDison&layout=compact&theme=radical)
-
----
-
-## ⏳ 近期动态
-
-<!--START_SECTION:activity-->
-<!-- 自动化展示你的 GitHub 活动，可以参考 GitHub Actions 相关插件 -->
-<!--END_SECTION:activity-->
+<p align="center">
+  <!-- 前端 -->
+  <!-- 后端 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,python,pytorch,git,github,vscode,linux,r,qt,ros,ps,pr,apple,arduino,c,cpp,github,linux,pr,raspberrypi,vim,windows" />
+  </a>
+</p>
+<!-- 
+  上面的图标是如何工作的?
+  访问 https://skillicons.dev/ 网站，在输入框中选择你需要的图标 (用逗号分隔), 
+  然后复制生成的 URL 替换掉上面 <img> 标签中的 src="..." 即可。
+-->
 
 ---
 
-## 🤝 欢迎交流
+### 📊 My GitHub Stats
 
-喜欢我的项目或想要合作，欢迎 issue 或私信联系！
+<p align="center">
+  <!-- 替换下面的 "[你的GitHub用户名]" 为你的 GitHub 用户名 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsuiDison&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+<p align="center">
+</p>
+<!-- 
+  想了解更多主题和自定义选项吗?
+  访问: https://github.com/anuraghazra/github-readme-stats
+-->
 
----
 
-### ⭐️ 觉得有用请给我一个 Star 哦！
+<!-- 
+### 🌱What I'm Currently Working On
 
----
+- 🔭 &nbsp; 我目前正在参与项目 `[项目名称]`
+- 🤔 &nbsp; 我正在寻找关于 `[具体技术或问题]` 的帮助
+- 💬 &nbsp; 欢迎与我交流任何关于 `[你的专业领域]` 的问题
+- 📫 &nbsp; 如何联系我: `[你的首选联系方式，如邮箱]`
+- 😄 &nbsp; 趣闻: `[关于你的一个有趣的事实]`
+-->
+
+
+### 🏆 GitHub Trophies
+
+<!-- 
+  感谢您使用此模板！
+  最后，放一个有趣的 GitHub 小蛇动画来结束吧！
+-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
